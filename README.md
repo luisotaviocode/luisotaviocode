@@ -39,7 +39,7 @@ At the moment, I have more experience in **Web Development** (HTML, CSS, and Jav
   <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisotaviocode&layout=normal&custom_title=Languages&theme=merko&" />  
 </p>  
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br clear="both">
 
 ## 📞**Contact**
 
