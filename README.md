@@ -6,7 +6,7 @@ Olá, meu nome é **Luis Otávio Barreto**, tenho **14 anos** e eu estudo progra
 
 <br><br>
 
-<table>
+<table align="center">
     <tr>
         <th><strong>Área</strong></th>
         <th><strong>Função</strong></th>
@@ -138,8 +138,10 @@ style="padding-right: 10px;">
 
 ## **📊Estatísticas**
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luisotaviocode&show_icons=true&theme=merko&locale=pt-br" />
+ <br>
+ <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisotaviocode&layout=compact&theme=merko&locale=pt-br" />
 </p>
 
