@@ -141,7 +141,6 @@ style="padding-right: 10px;">
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=luisotaviocode&show_icons=true&theme=merko&locale=pt-br" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisotaviocode&layout=compact&theme=merko&locale=pt-br" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisotaviocode&theme=merko&locale=pt-br" />
 </p>
 
 <br clear="float">
