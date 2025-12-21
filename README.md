@@ -153,6 +153,10 @@ style="padding-right: 10px;">
 
 <br>
 
-<a href="https://www.linkedin.com/in/luis-otavio-barreto-dantas/">Conecte-se comigo no LinkedIn</a> 
+[Me chama no **WhatsApp**](https://wa.me/5577999139278)
 
-<a href="https://wa.me/5577999139278">Converse no WhatsApp</a>
+[Conecte-se comigo no **LinkedIn**](https://www.linkedin.com/in/luis-otavio-barreto-dantas/)
+
+[Me siga no **GitHub**](https://github.com/luisotaviocode)
+
+[**Email**: luisotaviobdantas12@gmail.com](mailto:luisotaviobdantas12@gmail.com)
