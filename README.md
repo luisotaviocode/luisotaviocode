@@ -136,17 +136,6 @@ style="padding-right: 10px;">
 
 <br clear="float">
 
-## **📊Estatísticas**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisotaviocode&show_icons=true&theme=merko" />
- <br>
- <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisotaviocode&layout=compact&theme=merko" />
-</p>
-
-<br clear="float">
-
 # **📞Contato**
 
 ### Caso esteja bater um papo comigo, pode clicar em algum destes links aqui abaixo. Obrigado por ter visto o meu perfil e espero você😉
