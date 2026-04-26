@@ -1,149 +1,43 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luis%20Otávio&fontSize=60&fontAlignY=35&animation=fadeIn" />
- 
-## **📋Sobre Mim**
+<h1 style="font-weight: 900;font-family: sans-serif;">LUIS OTÁVIO B. DANTAS</h1>
 
-Olá, meu nome é **Luis Otávio Barreto**, tenho **14 anos** e eu estudo programação na área *Full-Stack*. Eu sempre me interessei nesta área, e eu **foco cada hora do meu dia pra aprender cada vez mais**. Quero aproveitar que sou jovem e entender o que eu preciso pra seguir uma carreira de programador. **Espero que este meu objetivo seja alcançado!**
-
-<br><br>
-
-<table align="center">
-    <tr>
-        <th><strong>Área</strong></th>
-        <th><strong>Função</strong></th>
-    </tr>
-    <tr>
-        <td><strong>Front-End</strong></td>
-        <td><strong>Criação de sites e interface do usuário (UI)</strong></td>
-    </tr>
-    <tr>
-        <td><strong>Back-End</strong></td>
-        <td><strong>Desenvolvimento de servidores, bancos de dados e experiências do usuário (UX)</strong></td>
-    </tr>
-    <tr>
-        <td><strong>Banco de Dados</strong></td>
-        <td><strong>Criação, gerenciamento e manutenção de bancos de dados</strong></td>
-    </tr>
-    <tr>
-        <td><strong>Dev C#</strong></td>
-        <td><strong>Criação de aplicações e softwares utilizando a linguagem C#</strong></td>
-    </tr>
-    <tr>
-        <td><strong>Web Design</strong></td>
-        </strong>
-        <td><strong>Criação e design de sites, focando na estética e usabilidade</strong></td>
-    </tr>
-</table>
-
-<br><br>
-
-## **🐍Linguagens**
-
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-alt="HTML"
-height="60"
-width="60"
-style="padding-right: 10px;">
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-alt="CSS"
-height="60"
-width="60"
-style="padding-right: 10px;">
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-alt="JavaScript"
-height="60"
-width="60"
-style="padding-right: 10px;">
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-alt="React"
-height="60"
-width="60"
-style="padding-right: 10px;">
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-alt="MySQL"
-height="60"
-width="60"
-style="padding-right: 10px;">
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-alt="C#"
-height="60"
-width="60"
-style="padding-right: 10px;">
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-alt="PHP"
-height="60"
-width="60"
-style="padding-right: 10px;">
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-alt="Python"
-height="60"
-width="60"
-style="padding-right: 10px;">
-
-<br clear="float">
-
-## **⚙️Ferramentas**
-
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" 
-alt="Visual Studio"
-height="60"
-width="60"
-style="padding-right: 10px;">
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
-alt="VSCode"
-height="60"
-width="60"
-style="padding-right: 10px;">
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
-alt="Microsoft SQL Server"
-height="60"
-width="60"
-style="padding-right: 10px;">
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
-alt="Canva"
-height="60"
-width="60"
-style="padding-right: 10px;">
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-alt="Figma"
-height="60"
-width="60"
-style="padding-right: 10px;">
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-alt="Git"
-height="60"
-width="60"
-style="padding-right: 10px;">
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-alt="GitHub"
-height="60"
-width="60"
-style="padding-right: 10px;">
-
-<br clear="float">
-
-# **📞Contato**
-
-### Caso esteja bater um papo comigo, pode clicar em algum destes links aqui abaixo. Obrigado por ter visto o meu perfil e espero você😉
+<code style="color: #00E593; font-size: 20px;"><strong>FULL-STACK DEVELOPER</strong></code>
 
 <br>
 
-[Me chama no **WhatsApp**](https://wa.me/5577999139278)
+<div style="text-align: center;">
+<img src="https://avatars.githubusercontent.com/u/216340699?v=4" alt="Imagem de Perfil do Luis Otávio" height="300" style="border-radius: 20%; margin: 10px 0 30px 0;">
 
-[Conecte-se comigo no **LinkedIn**](https://www.linkedin.com/in/luis-otavio-barreto-dantas/)
+<p style="font-size: 1.2rem;">Olá!, meu nome é <span style="color: #00E593;">Luis Otávio Barreto Dantas</span>, tenho <span style="color: #00E593;">14 anos</span> e sou apaixonado pela programação, principalmente pela <span style="color: #00E593;">desenvolvimento Full-Stack</span></p>
 
-[**Email**: luisotaviobdantas12@gmail.com](mailto:luisotaviobdantas12@gmail.com)
+<p style="font-size: 2rem; margin: 0 0 20px 0;"><strong>LINGUAGENS</strong></p>
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="Ícone do HTML">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="Ícone do CSS">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="Ícone do JavaScript">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="Ícone do Node.JS">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="Ícone do PostgreSQL">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" alt="Ícone do C#">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Ícone do Git">
+
+<p style="font-size: 2rem; margin: 20px 0 20px 0;"><strong>FRAMEWORKS</strong></p>
+
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="Ícone do React">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg" alt="Ícone do Express.js">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg" alt="Ícone do .NET FrameWork">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="Ícone do Vite">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg" alt="Ícone do Bootstrap">
+
+<p style="font-size: 2rem; margin: 20px 0 20px 0;"><strong>FERRAMENTAS</strong></p>
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg" alt="Ícone do Visual Studio">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Ícone do FIGMA">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg" alt="Ícone do PostMan">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg" alt="Ícone do Vercel">
+
+<p style="font-size: 2rem; margin: 20px 0 20px 0;"><strong>CONTATO</strong></p>
+
+[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="Ícone do LinkedIn">](https://www.linkedin.com/in/luis-otavio-barreto-dantas/)
+[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="Ícone do GitHub">](https://github.com/luisotaviocode)
+[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" alt="Ícone do Gmail">](mailto:luisotaviobarretocode@gmail.com)
+</div>
