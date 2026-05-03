@@ -9,7 +9,7 @@
 <img src="https://avatars.githubusercontent.com/u/216340699?v=4" alt="Imagem de Perfil do Luis Otávio" width="300" height="300" style="border-radius: 50%; margin: 10px 0 30px 0;">
 
 <p style="font-size: 1.2rem;">
-  Olá! Meu nome é <span style="color: #00E593;">Luis Otávio Barreto Dantas</span>, tenho <span style="color: #00E593;">14 anos</span> e sou apaixonado pela programação, principalmente pelo <span style="color: #00E593;">desenvolvimento Full-Stack</span>.
+  Olá! Meu nome é <span style="color: #00E593;">Luis Otávio Barreto Dantas</span>, tenho <span style="color: #00E593;">15 anos</span> e sou apaixonado pela programação, principalmente pelo <span style="color: #00E593;">desenvolvimento Full-Stack</span>.
 </p>
 
 <h2><strong>LINGUAGENS</strong></h2>
